@@ -1,7 +1,7 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
+date: '2021-12-21'
+title: 'IT Technician'
+company: 'Providence College'
 location: 'Cupertino, CA'
 range: 'July - December 2017'
 url: 'https://www.apple.com/music/'
